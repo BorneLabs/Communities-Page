@@ -313,6 +313,31 @@ main .container .left .profile {
 }
 
 /* ------------ MIDDLE ------------ */
+.middle {
+	position: relative;
+	top: 0.4rem; 
+	height: 100vh; 
+	overflow-y: auto; 
+}
+/* Customizing the scrollbar */
+.middle::-webkit-scrollbar {
+	width: 8px; /*width of the scrollbar */
+  }
+  
+  .middle::-webkit-scrollbar-track {
+	background: rgba(0, 0, 0, 0.1); 
+	border-radius: 10px;
+  }
+  
+  .middle::-webkit-scrollbar-thumb {
+	background: rgba(0, 0, 0, 0.5); 
+	border-radius: 10px; 
+	border: 2px solid rgba(0, 0, 0, 0.2); 
+  }
+  
+  .middle::-webkit-scrollbar-thumb:hover {
+	background: rgba(0, 0, 0, 0.7); 
+  }
 .middle .stories {
 	display: flex;
 	justify-content: space-between;
