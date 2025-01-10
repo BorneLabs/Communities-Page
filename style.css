@@ -316,7 +316,7 @@ main .container .left .profile {
 .middle {
 	position: relative;
 	top: 0.4rem; 
-	height: 100vh; 
+	height: 110vh; 
 	overflow-y: auto; 
 }
 /* Customizing the scrollbar */
