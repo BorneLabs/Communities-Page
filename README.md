@@ -10,9 +10,7 @@ You can check out the live version of the Community Page by clicking the link be
 
 ### ✨ Contributing
 
-We welcome contributions to make this project even better! If you would like to contribute, please email me at:
-
-📧 **Email:** [brianxborne@gmail.com](mailto:brianxborne@gmail.com)
+We welcome contributions to make this project even better! If you would like to contribute, Visit our Whatsapp group at
 
 Feel free to reach out with any questions, suggestions, or ideas.
 
